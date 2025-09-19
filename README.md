@@ -1,1 +1,3 @@
-# SCT_03_TASK3
+# 🎮 Tic Tac Toe Game
+
+The **Tic Tac Toe Game** is a simple and interactive web-based version of the classic two-player game, built using **HTML, CSS, and JavaScript**. The game is played on a **3x3 grid**, where players take turns placing their mark (X or O) in empty cells. The application features a clean design with a centered layout and responsive grid structure. The game logic is implemented in JavaScript, handling player turns, checking win conditions, detecting draws, and updating the status message dynamically. Players can restart the game at any time using the **Restart Game** button. This project is a beginner-friendly implementation, demonstrating concepts such as **DOM manipulation, event handling, arrays, and condition checking** in JavaScript. It provides a fun and easy way to understand game logic and web development basics.  
